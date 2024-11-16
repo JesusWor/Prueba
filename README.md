@@ -6,4 +6,4 @@ Este es el segundo cambio
 
 Este es el cambio en la PruebaRama
 
-Este en el cambio en el main para la rebase (ahora este cambio es para el conflcto)
+Este en el cambio en el main para la rebase (ahora veremos que pasa con el conflicto)
